@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "md+NKqyljXBFi6pi+ur1y/6Bc2663/VWRxvQ6W93pdRmZQPZXHqqcLEczLe0sX6YIrpATXJ63DI9+NTgsGedBQ==",
+  "success": true,
+  "projectFilePath": "/home/useing123/Desktop/Projects.Ridder/SU/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/useing123/.nuget/packages/litedb/5.0.17/litedb.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
