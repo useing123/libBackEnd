@@ -1,0 +1,61 @@
+2023-12-26 10:06:42 [INFO] Application started
+2023-12-26 10:11:26 [INFO] Application started
+2023-12-26 10:11:33 [INFO] Searched books with keyword: ossein
+2023-12-26 10:12:41 [INFO] Updated book with ID: 1
+2023-12-26 10:12:43 [INFO] Application finished
+2023-12-26 10:55:27 [INFO] Application started
+2023-12-26 10:55:31 [WARNING] Attempted to delete non-existing book with ID: 11
+2023-12-26 10:55:36 [WARNING] Invalid ID entered for deletion
+2023-12-26 10:55:44 [INFO] Application finished
+2023-12-26 10:57:34 [INFO] Application started
+2023-12-26 10:57:35 [INFO] Listed all books
+2023-12-26 10:57:41 [INFO] Deleted book with ID: 3
+2023-12-26 10:57:42 [INFO] Listed all books
+2023-12-26 11:00:42 [INFO] Application started
+2023-12-26 11:00:43 [INFO] User selected option: "
+2023-12-26 11:00:43 [WARNING] User made an invalid choice
+2023-12-26 11:00:46 [INFO] User selected option: 1
+2023-12-26 11:00:49 [INFO] Added book: aaa by ddd
+2023-12-26 11:00:50 [INFO] User selected option: 2
+2023-12-26 11:00:50 [INFO] Listed all books
+2023-12-26 11:11:14 [INFO] Application started
+2023-12-26 11:11:16 [INFO] User selected option: 1
+2023-12-26 11:11:18 [INFO] Added book: 2 by 3
+2023-12-26 11:11:19 [INFO] User selected option: 3
+2023-12-26 11:11:20 [INFO] Searched books with keyword: 1
+2023-12-26 11:11:23 [INFO] User selected option: 6
+2023-12-26 11:11:23 [INFO] Exiting application
+2023-12-26 11:11:23 [INFO] Application finished
+2023-12-26 11:16:40 [INFO] Application started
+2023-12-26 11:16:42 [INFO] User selected option: 2
+2023-12-26 11:16:42 [INFO] Listed all books
+2023-12-26 11:16:44 [INFO] User selected option: 6
+2023-12-26 11:16:44 [INFO] Exiting application
+2023-12-26 11:16:44 [INFO] Application finished
+2023-12-26 11:19:12.985 +06:00 [INF] Application started
+2023-12-26 11:19:14.722 +06:00 [INF] User selected option: 2
+2023-12-26 11:19:14.770 +06:00 [INF] Listed all books
+2023-12-26 11:31:10.291 +06:00 [INF] Application started
+2023-12-26 11:32:35.537 +06:00 [INF] Application started
+2023-12-26 11:32:41.087 +06:00 [INF] Application started
+2023-12-26 11:32:42.521 +06:00 [INF] User selected option: 1
+2023-12-26 11:32:42.553 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:32:46.775 +06:00 [INF] User selected option: 1
+2023-12-26 11:32:46.795 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:32:53.425 +06:00 [INF] User selected option: 1
+2023-12-26 11:32:53.436 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:32:54.962 +06:00 [INF] User selected option: 1
+2023-12-26 11:32:54.971 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:33:02.995 +06:00 [INF] User selected option: 1
+2023-12-26 11:33:03.004 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:33:05.547 +06:00 [INF] User selected option: 6
+2023-12-26 11:33:05.547 +06:00 [INF] Exiting application
+2023-12-26 11:33:05.549 +06:00 [INF] Application finished
+2023-12-26 11:35:44.520 +06:00 [INF] Application started
+2023-12-26 11:35:46.626 +06:00 [INF] User selected option: "
+2023-12-26 11:35:46.626 +06:00 [WRN] User made an invalid choice
+2023-12-26 11:35:47.397 +06:00 [INF] User selected option: 1
+2023-12-26 11:35:47.399 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:35:48.771 +06:00 [INF] User selected option: 6
+2023-12-26 11:35:48.772 +06:00 [INF] Exiting application
+2023-12-26 11:35:48.774 +06:00 [INF] Application finished
