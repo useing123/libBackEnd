@@ -59,3 +59,15 @@
 2023-12-26 11:35:48.771 +06:00 [INF] User selected option: 6
 2023-12-26 11:35:48.772 +06:00 [INF] Exiting application
 2023-12-26 11:35:48.774 +06:00 [INF] Application finished
+2023-12-26 11:37:49.260 +06:00 [INF] Application started
+2023-12-26 11:37:50.583 +06:00 [INF] User selected option: 1
+2023-12-26 11:37:50.609 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:37:51.198 +06:00 [INF] User selected option: 1
+2023-12-26 11:37:51.218 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:37:51.489 +06:00 [INF] User selected option: 1
+2023-12-26 11:37:51.500 +06:00 [ERR] Error adding book: Exception of type 'System.Exception' was thrown.
+2023-12-26 11:37:55.046 +06:00 [INF] User selected option: фывыфв
+2023-12-26 11:37:55.047 +06:00 [WRN] User made an invalid choice
+2023-12-26 11:37:56.441 +06:00 [INF] User selected option: 6
+2023-12-26 11:37:56.441 +06:00 [INF] Exiting application
+2023-12-26 11:37:56.443 +06:00 [INF] Application finished
